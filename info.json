@@ -1,0 +1,23 @@
+{
+    "name": "Samuel Haile",
+    "website": "https://samishken.github.io/",
+    "linkedin": "www.linkedin.com/in/samuelhaile",
+    "github": "samishken",
+    "email": "samishken@gmail.com",
+    "resume": "https://samishken.github.io/Trivia-Game-/",
+    "proficient-technologies": [
+        "html", 
+        "css", 
+        "javascript", 
+        "react", 
+        "angular", 
+        "mern", 
+        "mean",
+        "sql",
+        "node", 
+        "mongodb"
+    ],
+    "other-skills": [
+        "coach soccer",
+    ]
+}
