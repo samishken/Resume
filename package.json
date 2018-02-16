@@ -6,11 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "author": "Samishken",
+  "license": "ISC",
   "bin": {
     "resume": "./index.js"
   },
-  "author": "Samishken",
-  "license": "ISC",
   "keywords": [
     "resume",
     "Samuel"
